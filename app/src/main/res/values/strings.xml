@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Bachelor party</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">Login</string>
+    <string name="register">register</string>
+    <string name="joinByCode">Join using code</string>
+    <string name="code">Input your code!</string>
+    <string name="join">Join</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="yourProfiles">Your profiles</string>
+    <string name="createNewProfile">Create new profile</string>
+    <string name="back">Back</string>
+    <string name="logout">Logout</string>
+    <string name="addChallenges">Add challenges</string>
+    <string name="addParticipants">Add participants</string>
+    <string name="addParticipant">Add participant</string>
+    <string name="addCustomChallenge">Add custom</string>
+    <string name="remove">remove</string>
+    <string name="select">select</string>
+    <string name="create">CREATE</string>
+    <string name="addNewProfile">Add new profile</string>
+    <string name="codeReview">Code:</string>
+    <string name="draw">Draw</string>
+    <string name="participation">Participation:</string>
+    <string name="Challenges">Challenges:</string>
+    <string name="Result">Result:</string>
+    <string name="sendSMS">SEND SMS</string>
+</resources>

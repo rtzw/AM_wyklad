@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragments.NewProfile"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16sp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/create"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="260dp"
+                android:text="@string/create" />
+            <Button
+                android:id="@+id/addChallengesButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="260dp"
+                android:text="@string/addChallenges" />
+
+            <TextView
+                android:id="@+id/addChallengesText"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+
+                android:text="0 added"
+                android:textStyle="bold" />
+            <Button
+                android:id="@+id/addParticipantsButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="260dp"
+                android:text="@string/addParticipants" />
+            <TextView
+                android:id="@+id/addParticipantsText"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="0 added"
+                android:gravity="center"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/backButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:width="260dp"
+                android:text="@string/back" />
+
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

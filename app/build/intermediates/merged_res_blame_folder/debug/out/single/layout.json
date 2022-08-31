@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-mergeDebugResources-46:\\layout\\fragment_new_profile.xml",
+        "source": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-main-49:\\layout\\fragment_new_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-mergeDebugResources-46:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-main-49:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.am_wyklad.app-mergeDebugResources-46:/layout/profile_layout.xml",
+        "source": "com.example.am_wyklad.app-main-49:/layout/profile_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-mergeDebugResources-46:\\layout\\fragment_add_challenges.xml",
+        "source": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-main-49:\\layout\\fragment_add_challenges.xml"
+    },
+    {
+        "merged": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-mergeDebugResources-46:\\layout\\activity_start.xml",
+        "source": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-main-49:\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-mergeDebugResources-46:\\layout\\participants_layout.xml",
+        "source": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-main-49:\\layout\\participants_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-mergeDebugResources-46:\\layout\\fragment_register.xml",
+        "source": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-main-49:\\layout\\fragment_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-mergeDebugResources-46:\\layout\\profile_layout.xml",
+        "source": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-main-49:\\layout\\profile_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-mergeDebugResources-46:\\layout\\challenges_layout.xml",
+        "source": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-main-49:\\layout\\challenges_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-mergeDebugResources-46:\\layout\\your_profiles_layout.xml",
+        "source": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-main-49:\\layout\\your_profiles_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-mergeDebugResources-46:\\layout\\fragment_profiles_menu.xml",
+        "source": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-main-49:\\layout\\fragment_profiles_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-mergeDebugResources-46:\\layout\\fragment_login.xml",
+        "source": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-main-49:\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-mergeDebugResources-46:\\layout\\fragment_join_by_code.xml",
+        "source": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-main-49:\\layout\\fragment_join_by_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-mergeDebugResources-46:\\layout\\fragment_choose.xml",
+        "source": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-main-49:\\layout\\fragment_choose.xml"
+    },
+    {
+        "merged": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-mergeDebugResources-46:\\layout\\fragment_add_participants.xml",
+        "source": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-main-49:\\layout\\fragment_add_participants.xml"
+    },
+    {
+        "merged": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-mergeDebugResources-46:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-main-49:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "com.example.am_wyklad.app-mergeDebugResources-46:/layout/fragment_profile.xml",
+        "source": "com.example.am_wyklad.app-main-49:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-mergeDebugResources-46:\\layout\\fragment_your_profiles.xml",
+        "source": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-main-49:\\layout\\fragment_your_profiles.xml"
+    },
+    {
+        "merged": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-mergeDebugResources-46:\\layout\\fragment_start.xml",
+        "source": "C:\\Users\\mszeflinski\\.gradle\\daemon\\7.3.3\\com.example.am_wyklad.app-main-49:\\layout\\fragment_start.xml"
+    }
+]
